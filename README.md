@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=ohjeonsuk)](https://github.com/ohjeonsuk)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjeonsuk &layout=compact)](https://github.com/ohjeonsuk/githubreadme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohjeonsuk&layout=compact)](https://github.com/ohjeonsuk/githubreadme-stats)
